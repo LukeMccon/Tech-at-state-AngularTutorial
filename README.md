@@ -15,6 +15,7 @@ If the command fails install it using your package manager
 ### For OSX
 
 `brew update`
+
 `brew install node`
 
 or
@@ -22,7 +23,9 @@ or
 ### Debian and Ubuntu Based Linux Distributions
 
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash`
+
 `chmod +x install.sh`
+
 `./install.sh`
 
 Restart your cli
@@ -52,7 +55,9 @@ However, you can use any IDE you want. We highly prefer IDEs that support linter
 ### Starting the App
 
 
+Simply run
 
+`ng serve --open`
 
 
 
