@@ -54,7 +54,7 @@ However, you can use any IDE you want. We highly prefer IDEs that support linter
 
 ### Starting the App
 
-
+When you're in a Angular project directory,
 Simply run
 
 `ng serve --open`
